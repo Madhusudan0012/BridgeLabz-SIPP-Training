@@ -1,4 +1,4 @@
-package ControlFlows.level2;
+package ControlFlows.Level2;
 
 import java.util.Scanner;
 
