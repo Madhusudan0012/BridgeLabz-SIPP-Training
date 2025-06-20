@@ -14,6 +14,7 @@ public class Questions12 {
         int totalMarks = Maths + Physics + Chemistery;
 
         int percentage = totalMarks/300*100;
+        
 
         //grades system
         if(percentage >= 80){
