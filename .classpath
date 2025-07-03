@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Arrays_practice/level2"/>
+	<classpathentry kind="src" path="controlFlow/level1"/>
+	<classpathentry kind="src" path="java_methods/level2"/>
+	<classpathentry kind="src" path="OOPs/classAndObject/src"/>
+	<classpathentry kind="src" path="OOPs/constructorsInstanceModifiers/src"/>
+	<classpathentry kind="src" path="OOPs/staticThisFinalKeywords/src"/>
+	<classpathentry kind="src" path="ProgrammingElements/level1"/>
+	<classpathentry kind="src" path="ProgrammingElements/level2"/>
+	<classpathentry kind="src" path="WorkShop"/>
+	<classpathentry kind="output" path="OOPs/classAndObject/bin"/>
+</classpath>

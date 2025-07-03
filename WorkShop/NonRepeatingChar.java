@@ -17,5 +17,5 @@ public class NonRepeatingChar {
                 System.out.print(entry.getKey() + " ");
             }
         }
-    }
+    }   
 }
